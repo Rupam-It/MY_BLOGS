@@ -32,6 +32,6 @@
 [Read full blog ➜](https://kubeknow.hashnode.dev/key-components-of-kubernetes-architecture-explained)
 
 ## 📘 Blog 8: Understanding Go Slices and Memory Management
-**Date:** nov 03, 2025
+**Date:** nov 06, 2025
 
 [Read full blog ➜](https://kubeknow.hashnode.dev/understanding-go-slices-and-memory-management)
