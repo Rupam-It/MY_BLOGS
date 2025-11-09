@@ -15,3 +15,23 @@
 
 [Read full blog ➜](https://kubeknow.hashnode.dev/lfx-mentorship-2025-my-experience-contributing-to-kubestellar-in-cncf)
 
+## 📘 Blog 5: One Shot SQL Guide: Everything You Need to Crack Database Interviews
+**Date:** Oct 26, 2025
+
+[Read full blog ➜](https://kubeknow.hashnode.dev/one-shot-sql-guide-everything-you-need-to-crack-database-interviews)
+
+
+## 📘 Blog 6: The Real Story: Why Everyone's Going Crazy About Kubernetes
+**Date:** Oct 29, 2025
+
+[Read full blog ➜](https://kubeknow.hashnode.dev/the-real-story-why-everyones-going-crazy-about-kubernetes)
+
+## 📘 Blog 7: Key Components of Kubernetes Architecture Explained
+**Date:** nov 03, 2025
+
+[Read full blog ➜](https://kubeknow.hashnode.dev/key-components-of-kubernetes-architecture-explained)
+
+## 📘 Blog 8: Understanding Go Slices and Memory Management
+**Date:** nov 03, 2025
+
+[Read full blog ➜](https://kubeknow.hashnode.dev/understanding-go-slices-and-memory-management)
