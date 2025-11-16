@@ -35,3 +35,9 @@
 **Date:** nov 06, 2025
 
 [Read full blog ➜](https://kubeknow.hashnode.dev/understanding-go-slices-and-memory-management)
+
+## 📘 Blog 9: Etcd in Kubernetes: A Complete Guide to Architecture, Storage, Raft, Backup & Best Practices
+**Date:** nov 06, 2025
+
+[Read full blog ➜]([https://kubeknow.hashnode.dev/understanding-go-slices-and-memory-management](https://kubeknow.hashnode.dev/etcd-in-kubernetes-a-complete-guide-to-architecture-storage-raft-backup-and-best-practices))
+
