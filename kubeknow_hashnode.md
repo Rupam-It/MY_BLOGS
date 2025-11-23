@@ -42,7 +42,7 @@
 [Read full blog ➜](https://kubeknow.hashnode.dev/etcd-in-kubernetes-a-complete-guide-to-architecture-storage-raft-backup-and-best-practices)
 
 ## 📘 Blog 10: understanding the kubernetes api how your cluster really works
-**Date:** nov 16, 2025
+**Date:** nov 22, 2025
 
 [Read full blog ➜](https://kubeknow.hashnode.dev/understanding-the-kubernetes-api-how-your-cluster-really-works)
 
