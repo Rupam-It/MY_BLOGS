@@ -46,4 +46,9 @@
 
 [Read full blog ➜](https://kubeknow.hashnode.dev/understanding-the-kubernetes-api-how-your-cluster-really-works)
 
+## 📘 Blog 11: Understanding Kubernetes Controllers in 2026: A Complete Guide to Self-Healing Infrastructure
+**Date:** nov 29, 2025
+
+[Read full blog ➜](https://kubeknow.hashnode.dev/understanding-kubernetes-controllers-in-2026-a-complete-guide-to-self-healing-infrastructure)
+
 
